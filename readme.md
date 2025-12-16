@@ -5,6 +5,3 @@ The proposed RAG Agent enhances medical question answering by combining LLM-base
 By integrating vector databases, semantic similarity search, and explainable AI techniques, the RAG Agent ensures that each generated medical insight is traceable, transparent, and evidence-backed. This approach significantly reduces hallucinations and improves reliability, making the system suitable for applications such as clinical research assistance, literature review automation, medical education, and decision support systems.
 
 Overall, this RAG-based framework bridges the gap between AI intelligence and medical trustworthiness, enabling safer and more reliable AI-driven medical research support.
-
-
-branch main
