@@ -7,4 +7,4 @@ By integrating vector databases, semantic similarity search, and explainable AI 
 Overall, this RAG-based framework bridges the gap between AI intelligence and medical trustworthiness, enabling safer and more reliable AI-driven medical research support.
 
 
-branch test
+branch test 2
